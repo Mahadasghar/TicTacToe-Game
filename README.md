@@ -5,7 +5,7 @@ A stylish, responsive Tic Tac Toe web game built using **HTML, CSS, and JavaScri
 ---
 
 ## 🚀 Live Demo
-Play it here 👉 [TicTacToe-Game](https://yourusername.github.io/tictactoe-game/)
+Play it here 👉 [TicTacToe-Game](https://mahadasghar.github.io/TicTacToe-Game/)
 
 ---
 
